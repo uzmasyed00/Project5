@@ -20,6 +20,8 @@ Navigate to the .ssh directory and type the following:
 
 ssh grader@54.69.10.80 -p 2200
 
+When prompted for the password, type "grader"
+
 Once inside the server, run the following command:
 
 sudo service apache2 restart
